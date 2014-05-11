@@ -67,8 +67,7 @@ Restart the IDE.
 Original library written by Limor Fried/Ladyada for Adafruit Industries.  
 BSD license.
 
-Stripped down and SPI removed for compact board use by Josh Lind.  
-MIT License.
+Stripped down and SPI removed for compact board use by Josh Lind.
 
 -------------------------------------
 
