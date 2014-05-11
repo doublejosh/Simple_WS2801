@@ -1,3 +1,6 @@
+Simple WS2801 Library
+=============
+
 Stripped down library for controlling WS2801 pixels via tiny non-SPI micro-controllers.
 
 ###Usage
