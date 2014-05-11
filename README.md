@@ -9,6 +9,7 @@ Stripped down library for controlling WS2801 pixels via tiny non-SPI micro-contr
 
 const int PIN_DATA = 2;
 const int PIN_CLOCK = 3;
+Simple_WS2801 strip = Simple_WS2801(7, PIN_DATA, PIN_CLOCK);
 
 void setup() {
   pinMode(PIN_DATA, OUTPUT);
