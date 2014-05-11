@@ -2,6 +2,8 @@ Stripped down library for controlling WS2801 pixels via tiny non-SPI micro-contr
 
 ###Usage
 ```c++
+#include "Simple_WS2801.h"
+
 const int PIN_DATA = 2;
 const int PIN_CLOCK = 3;
 
