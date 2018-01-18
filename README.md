@@ -3,7 +3,7 @@ Simple WS2801 Library
 
 Stripped down library for controlling WS2801 pixels via tiny non-SPI micro-controllers.
 
-###Usage
+### Usage
 ```c++
 #include "Simple_WS2801.h"
 
@@ -59,7 +59,7 @@ uint32_t Color(byte r, byte g, byte b) {
 
 -------------------------------------
 
-###Install
+### Install
 To install within Arduino IDE, place the Simple_WS2801 library folder
 within your <arduinosketchfolder>/libraries/ folder. You may need to
 create the libraries subfolder if its your first library.
@@ -67,7 +67,7 @@ Restart the IDE.
 
 -------------------------------------
 
-###Authorship
+### Authorship
 Original library written by Limor Fried/Ladyada for Adafruit Industries.  
 BSD license.
 
@@ -75,7 +75,7 @@ Stripped down and SPI removed for compact board use by Josh Lind.
 
 -------------------------------------
 
-###REQUIRED:
+### REQUIRED:
 Designed specifically to work with the Adafruit RGB Pixels!  
 12mm Bullet shape ----> https://www.adafruit.com/products/322  
 12mm Flat shape   ----> https://www.adafruit.com/products/738  
